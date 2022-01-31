@@ -1,1 +1,1 @@
-[Main Dev Place](https://gitlab.com/oliver.wich)
+[I mainly do Code stuff on GitLab](https://gitlab.com/oliver.wich)
